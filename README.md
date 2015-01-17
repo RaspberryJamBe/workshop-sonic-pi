@@ -16,7 +16,7 @@ Per paar:
 Per persoon:
 - Een hoofdtelefoon
 
-## Lessen
+## Stappen
 
 - [Stap 1 - Starten met Sonic Pi op een Raspberry Pi](stap-01/instructies.md)
 - [Stap 2 - Iteraties en Functies](stap-02/instructies.md)
