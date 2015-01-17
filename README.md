@@ -18,11 +18,11 @@ Per persoon:
 
 ## Lessen
 
-- [Les 1 - Starten met Sonic Pi op een Raspberry Pi](les-01/les.md)
-- [Les 2 - Debuggen & Iteraties]
-- [Les 3 - Voorwaarden & Willekeurige keuzes]
-- [Les 4 - Data Structuren]
-- [Les 5 - Concurrency]
+- [Stap 1 - Starten met Sonic Pi op een Raspberry Pi](stap-01/instructies.md)
+- [Stap 2 - Iteraties en Functies](stap-02/instructies.md)
+- [Stap 3 - Voorwaarden & Willekeurige keuzes]
+- [Stap 4 - Data Structuren]
+- [Stap 5 - Concurrency]
 
 ## Licence
 
