@@ -1,4 +1,4 @@
-# Les 1: Starten met Sonic Pi op een Raspberry Pi
+# Stap 1: Starten met Sonic Pi op een Raspberry Pi
 
 Onze eerste stapjes op de Raspberry Pi, een micro computer met grote ambities. In deze les leren we de Raspberry Pi kennen, hoe het computertje op te zetten en de absolute beginselen van het programmeren.
 
