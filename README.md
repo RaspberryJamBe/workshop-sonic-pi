@@ -33,4 +33,5 @@ Tenzij anders aangegeven valt alles in deze repository onder de volgende licenti
 ***Sonic Pi Workshop*** by [Raspberry Jam België](http://www.raspberryjam.be) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Based on a work at https://github.com/raspberrypilearning/sonic-pi-lessons
+
 Based on a work at https://github.com/raspberrypilearning/sonic-pi-taster
