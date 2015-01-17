@@ -18,7 +18,7 @@ Per persoon:
 
 ## Lessen
 
-- [Les 1 - Starten met Sonic Piop een Raspberry Pi](les-01/les.md)
+- [Les 1 - Starten met Sonic Pi op een Raspberry Pi](les-01/les.md)
 - [Les 2 - Debuggen & Iteraties]
 - [Les 3 - Voorwaarden & Willekeurige keuzes]
 - [Les 4 - Data Structuren]
